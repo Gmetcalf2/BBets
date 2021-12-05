@@ -124,10 +124,13 @@ for(i in c(1:1000)){
 hist(money)
 ```
 
-
+The class size needs to be between 28 and 29 students with the bet being 2;1 in tune with Dr. J earnings of zero. I started the class size of 35 which was too high. The next size was a class size of 20 which was to low. Maneuvering between 35 and 20 to then 27,31,30 and finally deciding that 28 students was the number of students.
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
+
+At the beginning Dr. J was making about $280 with class sizes of 35 with 2:1 odds when guessing that there would be at least two students in the same class with the same birthday. When changing the odds to 4.5:1 it would leave Dr. J close to zero profit. When changing the class size to 28 students at 2:1 the odds was the same. Dr. J profits were close to zero.
+
 
